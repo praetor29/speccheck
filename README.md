@@ -15,7 +15,7 @@
 ---
 
 ## Motivation
-To create a new way to iterpret sensor data from Biosphere 2 using locally run LLMs with secure SSL encryption.
+To create a new way to interpret sensor data from Biosphere 2 using locally run LLMs with secure SSL encryption.
 
 ## The Challenge
 > Biosphere 2, a research facility unlike any other in the world, stands as a testament to our quest for understanding Earth's intricate and intelligent ecosystems. Inspired by Buckminster Fuller's "Spaceship Earth", it is the world’s largest controlled environment dedicated to unraveling the complexities of our planet. Now, by harnessing the awesome potential of Artificial Intelligence and the ingenuity of young engineers drawn to this university, we are poised to elevate our comprehension of these living systems to unprecedented, super-intelligent levels. This exciting collaboration marks a pathway into the future, where together we will deepen our knowledge of Earth's stewardship and even explore the possibilities of off-planet living.
