@@ -2,7 +2,7 @@
 
 # 24-hour Biosphere 2 Challenge
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3.11.11-3776ab?logo=python"><img alt="Ollama" src="https://img.shields.io/badge/-Ollama v0.6.2-000000?style=flat&logo=ollama&logoColor=white"><img alt="llama3-chatqa" src="https://img.shields.io/badge/-llama3 chatqa-ffffff?style=flat&logo=nvidia&logoColor=green"><img alt="openwebui" src="https://img.shields.io/badge/-OpenWebUI-000000?style=flat&logo=github&logoColor=white"><img alt="Docker" src="https://img.shields.io/badge/-Docker-1D63ED?style=flat&logo=docker&logoColor=white"><img alt="Tailscale" src="https://img.shields.io/badge/-Tailscale-000000?style=flat&logo=tailscale&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3.11.11-3776ab?logo=python"><img alt="Ollama" src="https://img.shields.io/badge/-Ollama v0.6.2-000000?style=flat&logo=ollama&logoColor=white"><img alt="llama3-chatqa" src="https://img.shields.io/badge/-llama3 chatqa-ffffff?style=flat&logo=nvidia&logoColor=green"><img alt="openwebui" src="https://img.shields.io/badge/-OpenWebUI-000000?style=flat&logo=github&logoColor=white"><img alt="Docker" src="https://img.shields.io/badge/-Docker-1D63ED?style=flat&logo=docker&logoColor=white"><img alt="Tailscale" src="https://img.shields.io/badge/-Tailscale-000000?style=flat&logo=tailscale&logoColor=white"><img alt="WireGuard" src="https://img.shields.io/badge/-WireGuard-red?style=flat&logo=wireguard&logoColor=white">
 
 ### Team *Spec Check*
 - Darryl Mercado
@@ -53,7 +53,7 @@ docker run -d --gpus all --runtime=nvidia \
   --name open-webui \
   ghcr.io/open-webui/open-webui:cuda
 ```
-3. **Tailscale Configuration:** Implemented [Tailscale](https://tailscale.com/) on Linux, Windows, and macOS to facilitate secure, peer-to-peer connectivity.
+3. **Tailscale Configuration:** Implemented [Tailscale](https://tailscale.com/) on Linux, Windows, and macOS to facilitate secure, peer-to-peer **WireGuard®** connectivity.
 4. **SSH Server Integration:** Deployed SSH servers on devices hosting LLMs to enable robust remote workflows.
 5. **Miniconda Environment:** Implemented a [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main) environment for agile, volatile testing of Python code.
 6. **Data Parsing and Organization:** Manually parsed and organized Biosphere 2 [sensor CSV data](https://biosphere2.org/research/systems-data), categorizing records by habitat to create a coherent knowledge base.
