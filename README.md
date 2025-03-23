@@ -1,6 +1,6 @@
 ![banner](/src/ua_banner.png)
 
-# Biosphere 2 Challenge
+# 24-hour Biosphere 2 Challenge
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3.11.11-3776ab?logo=python"><img alt="Ollama" src="https://img.shields.io/badge/-Ollama v0.6.2-000000?style=flat&logo=ollama&logoColor=white"><img alt="llama3-chatqa" src="https://img.shields.io/badge/-llama3 chatqa-ffffff?style=flat&logo=nvidia&logoColor=green"><img alt="openwebui" src="https://img.shields.io/badge/-OpenWebUI-000000?style=flat&logo=github&logoColor=white"><img alt="Docker" src="https://img.shields.io/badge/-Docker-1D63ED?style=flat&logo=docker&logoColor=white"><img alt="Tailscale" src="https://img.shields.io/badge/-Tailscale-000000?style=flat&logo=tailscale&logoColor=white">
 
